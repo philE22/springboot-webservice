@@ -11,3 +11,5 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+
+//6장 aws 서버 환경을 만들어보자 완료
